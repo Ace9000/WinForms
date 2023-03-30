@@ -1,0 +1,11 @@
+C:\Users\anast\OneDrive\Desktop\Projects created by me from Udemy\ArrayList\ArrayList\bin\Debug\ArrayList.exe.config
+C:\Users\anast\OneDrive\Desktop\Projects created by me from Udemy\ArrayList\ArrayList\bin\Debug\ArrayList.exe
+C:\Users\anast\OneDrive\Desktop\Projects created by me from Udemy\ArrayList\ArrayList\bin\Debug\ArrayList.pdb
+C:\Users\anast\OneDrive\Desktop\Projects created by me from Udemy\ArrayList\ArrayList\obj\Debug\ArrayList.csproj.AssemblyReference.cache
+C:\Users\anast\OneDrive\Desktop\Projects created by me from Udemy\ArrayList\ArrayList\obj\Debug\ArrayList.csproj.SuggestedBindingRedirects.cache
+C:\Users\anast\OneDrive\Desktop\Projects created by me from Udemy\ArrayList\ArrayList\obj\Debug\ArrayList.Form1.resources
+C:\Users\anast\OneDrive\Desktop\Projects created by me from Udemy\ArrayList\ArrayList\obj\Debug\ArrayList.Properties.Resources.resources
+C:\Users\anast\OneDrive\Desktop\Projects created by me from Udemy\ArrayList\ArrayList\obj\Debug\ArrayList.csproj.GenerateResource.cache
+C:\Users\anast\OneDrive\Desktop\Projects created by me from Udemy\ArrayList\ArrayList\obj\Debug\ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\anast\OneDrive\Desktop\Projects created by me from Udemy\ArrayList\ArrayList\obj\Debug\ArrayList.exe
+C:\Users\anast\OneDrive\Desktop\Projects created by me from Udemy\ArrayList\ArrayList\obj\Debug\ArrayList.pdb
